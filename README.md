@@ -50,7 +50,7 @@ Chose **FGS with `dataSync` type** because:
 - `TelemetryViewModel`: State management and UI updates  
 - `JankStatsCollector`: Custom performance tracking
 
-**Video Demo**: https://drive.google.com/file/d/130eoXk1EHZSBdRvuNQB0GyBzqcGwmehi/view?usp=drive_link [Link to video showing 0% jank and battery adaptation]
+**Video Demo**: https://drive.google.com/file/d/1Po0K9bPKivGZXrg48nPBKnhHvWA_2hUC/view?usp=sharing [Link to video showing 0% jank and battery adaptation]
 
 **Repository**: https://github.com/mubbimuhammad/TelemetryLab.git
 
